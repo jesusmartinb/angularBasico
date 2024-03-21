@@ -19,6 +19,6 @@ export class CounterComponent {
   }
 
   resetCounter(): void {
-    this.counter = 10;
+    this.counter = 5;
   }
 }
